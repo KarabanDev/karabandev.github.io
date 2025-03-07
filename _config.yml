@@ -1,4 +1,4 @@
 name: Bugaga
 theme: minima
-include:
-  - .well-known
+include: - .well-known
+  
