@@ -1,4 +1,4 @@
-name: Bugaga_Conf
-theme: minima
-include: - .well-known
+theme: jekyll-theme-cayman
+
+include: [".well-known"]
   
